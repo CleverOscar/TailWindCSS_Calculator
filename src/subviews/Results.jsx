@@ -14,7 +14,7 @@ function Operators (){
 
 export default function Results(){
     return(
-        <div className="ml-auto w-min">
+        <div className="ml-auto w-min text-5xl">
             
             0
         </div>

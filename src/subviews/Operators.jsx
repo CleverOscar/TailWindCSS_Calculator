@@ -6,9 +6,9 @@ export default function Operators(){
                     
                     flex flex-col
                     justify-between
-                    
+                    w-[22%]
                     text-3xl
-                    
+                    text-center
                            
             '>
                 <li className=' bg-orange-900

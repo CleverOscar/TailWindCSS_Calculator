@@ -3,6 +3,7 @@ import react from 'react'
 export default function Numbers () {
     return(
         <ul className=" 
+
                         
                         w-3/4 
                         grid grid-cols-3 gap-3
@@ -14,7 +15,6 @@ export default function Numbers () {
             <li className='
                         bg-gray-900
                         rounded-full
-                        
                         p-5
                         '>
                 AC
@@ -90,7 +90,7 @@ export default function Numbers () {
                 p-5'>
                 3
             </li>
-            <li className='col-span-2 bg-gray-900 rounded-full text-left pl-5 py-3'>
+            <li className=' bg-gray-900 rounded-full p-5 col-span-2 text-left'>
                 0
             </li>
             <li className='bg-gray-900
